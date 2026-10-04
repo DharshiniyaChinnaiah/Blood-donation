@@ -1572,9 +1572,6 @@ display:none;
 }
 }
 @media only screen and (min-width:300px) and (max-width:600px){
-.first img{
-    display:none;
-}
 .navbar .right a{
     display:none;
 }
@@ -1844,10 +1841,33 @@ padding-left:0px;
     width:70px;
     margin-top:90px;
 }
+
+.pick p{
+    display:flex;
+    flex-wrap: wrap;
+    color:black;
+     width:100%;
+}
+.black{
+    display:flex;
+    flex-wrap: wrap;
+    height:100vh;
+   
+    background-color: white;
+   padding:20px;
+}
+.output{
+ color:black;
+}
 .no{
-    width:150%;
-    background-color: red;
-    flex-direction: column;
+    width:100%;
+
+}
+.wifi{
+    padding:30px;
+}
+.regular p{
+    font-size:15px;
 }
 }
 
