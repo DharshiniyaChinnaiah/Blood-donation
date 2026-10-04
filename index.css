@@ -1837,8 +1837,8 @@ padding-left:0px;
     font-size:20px;
 }
 .cv img{
-    height:70px;
-    width:70px;
+    height:100px;
+    width:100px;
     margin-top:90px;
 }
 
@@ -1846,13 +1846,13 @@ padding-left:0px;
     display:flex;
     flex-wrap: wrap;
     color:black;
-     width:100%;
+    width:100%;
+}
 }
 .black{
     display:flex;
     flex-wrap: wrap;
     height:100vh;
-   
     background-color: white;
    padding:20px;
 }
