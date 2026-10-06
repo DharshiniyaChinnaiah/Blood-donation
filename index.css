@@ -1200,7 +1200,7 @@ padding:7px;
 }
 .output{
     font-family:Roboto;
-    font-size:21px;
+    font-size:25px;
     width:70%;
     color:white;
     padding:25px;
@@ -1219,8 +1219,7 @@ padding:7px;
     
 }
 .pick p{
-    color:white;
-    font-size:15px;
+    font-size:25px;
     font-family: Roboto;
     padding:10px;
 
@@ -1257,6 +1256,10 @@ padding:7px;
     color:blue;
      font-size: 20px;
 } 
+.pick p{
+    color:black;
+}
+
 
 /*responsive styling*/
 @media only screen and (min-width:600px) and (max-width:900px){
